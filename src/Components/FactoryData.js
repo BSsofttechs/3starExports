@@ -1,0 +1,22 @@
+
+export const FactoryData = [
+    {
+        image: 'https://lh3.googleusercontent.com/XGfABkfWtFnIx5WF7TNgZws2O1OeOm539wt3UJdp9MqC66EhvYt227OKmnqy0AXW0xraul0eZcWF339sZkHSD8M0mYN5E_PX5Hd1K2Ctmcgk5h48-_nypg0uQwf-AxMgUzR9JZRebZughTNFYl1xKxgdWO012bCMlwjU787ZOI4N2aIgS8vRkzx-_EnSjcbKpZxBiNkHY5DZ76ZulS7HH7owgjAdasQ7hT_iU25TAnUCqh9FlIW85ICyxjZfdGNKTmYTOG3XX5yryGWa4bfE_hSIdQa0IZIukb57pCoh0YyVw--BHrG0tp8JbwBf_16g1LoelvnGNYjARDPk_fTnpNWVfkMYlWr_PLqpXJQXmPG4FxJtstZgl48UgGPteCqTeRYS-9ggYRPIx6HmyZfmHC1jqWfUFyYhrxlJZjveOvfyy_32mkpLzfv1ffGwEwpXUvJ6VQV9pRf8IMDta_3SDvCxb4EuVgxTDwnr6RQT9y5LReofebZRjh25MEXwytWV48mD6AKgvnf9EdHGn9lc9YNcVjZobqT6itz93GfbvR_3IGXAEbw81XO_FUOMw1wrrnTaROW4dBMG1pnJ0VIxFG3kWnIGSB-pXGL8USNPGOusGaTgnImDEjj8aHbxkuM7aX9Roc-WDqJthVQFwGFblZl3pM-f5P0634BhaK0CT5fsHeVScbWJR_WLQODg=w470-h208-no?authuser=0',
+        tag1: '#Factory Photos',
+    },
+    
+    {
+        image: 'https://lh3.googleusercontent.com/PJq57YOnp4n0U7dViXMd3RC5jrViJhJSNYHV-PILTB9oR9-5U_qbc3m36P5Lzl_n2D4ijpOWfXVTmEi2et5mVEXBT6nK37gYqIqT1F33lCHuw3OZcs7uY4qtPr_hJ6TRZIKDuvKZBAV-mGQ4n8mGZOFwtV6Zde7wWHFffR7fvfG405XX72emstuClu6Olj_MvgjMtLQk_JeN1HFRxhQ87opNoq5zH4_NyhFr0MXntFJOXr615CkusVkbVs_JDcuuNCcjCh9qhCDiAMycyU7a3ip2GOIvMuybqLBCg8UPobw8HVAxaOLl6PZrX7DSXLJ2Y1gZpLZCdzhx1v3AFCY11-Wzvy8vF0U8m3Rh456YO5YxMNiJzy0gzDX47Y-kwSeEE2nDtg4hXCPWNEPfaHVVKThxhnmKGXEH1gVPLhEp1D9NXMl-DRXbhX7fU8dzlTQ3eWZa53HeqVLyJ92V_BN-W9i1qkYOLeiHdbX6pnlr7vzfILf8CpGpjN-JsIXphddbIFh-EZRChZlA_vwLWKFAYq144Ud1HLRa_7_C3PsjGQoesBEIXnUJ4kPTpjthLd6t7ot-FzMZZ0DcmZ5mDGn4edkR9f4V3igeh7kL55gUFNQP3jRpcR7q_vWFmKbUxPPr7vcc0REI9uhQqvf7jfMPMnIz7YpKjxzaqP5PIbocdLTpslnmRSAvw3l6J6_B=w1449-h647-no?authuser=0', 
+        tag1: '#Tirppur Office',
+        tag2: '#Factory Photos',
+    },
+    
+    {
+        image: 'https://lh3.googleusercontent.com/1NumOZTl5y9WOrplnXZz4Wo1_e334eznt9HyYwtiATRUfZCzB_XGDjST1KfhrvxY66dxSXPdWagVqbGxZxR9saWXKYpopTMYSnupD0Mus3ngApURnH7lkq21e1ilcsybd7PWl2sYjGWl5qa-82bxg5903QyEV5IA6Gxo5NWQQhOsUfpxUT9D0NhFjqsYwOfXU4qLGCK1-Ye_ICvkSY5GWJ7kgygluFmpV6DJKi7wryFsG7tpB7fn53AZRZdtaQPLKZaMsWaGIxbWQDCeZ1LRf9lQZ_ONsbvQ9nT8dINDM0jISq7FkNg1xc4jVT-yjR-nGhiLKil7qLV9qjlDqQBdVZ8PQWDAOSXsgLco_3nDWA0BoTA1m_kIqxSm0oKmsKg71nsMZyMlfsAbhwC9osRqHJGic7FlMQkKP5ypTothcEbncuKSCrvvgft4CqCb3dOq7BTayg_bLzggwm6W8iOkvxhEQrdB5iCOkMQ4x1Q-T-LyHkwSkW0JIOED6c5U3v8dD8snAtU_zAU0u9823d8Z6MCUHEI7eSotu_VZFWtMdZs65Fnjna4eafCkHglk4aQrKN4oLg3UpCI704VR-bT8aJjf2ihGyn0UApurDv40PNFrd0zPTUU0JLvSlrYYGIc1tmUP8fqZUwnGEgVrL4Y4u96mzr2VyqR8ZFRCkGou8vLoAnclJ2JXnl-Sa1YX=w635-h477-no?authuser=0',
+        tag1: '#Dubai Office',
+        tag2: '#International Office',
+        
+
+    },
+    
+]
